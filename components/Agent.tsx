@@ -13,7 +13,7 @@ import Image from "next/image";
      const isSpeaking = true;
      const messages = [
          'Whats your name?',
-         'My name is John Doe, nice to meet you!'
+         'My name is Rushikesh Desai, nice to meet you!'
      ];
      const lastMessage = messages[messages.length - 1];
  
