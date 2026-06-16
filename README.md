@@ -169,17 +169,6 @@ The project is deployed on **Vercel**. To deploy your own instance:
 3. Add environment variables in Vercel dashboard
 4. Deploy with a single click
 
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📞 Support
-
-For support, please open an issue on the GitHub repository or reach out to the maintainer.
 
 ---
 
